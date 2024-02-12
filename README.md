@@ -1,6 +1,6 @@
-# template-datascience
+# TensorFlow 101
 
-Template for Data Science, Machine Learning and Deep Learning projects
+Projeto para os [exemplos de uso](https://www.tensorflow.org/tutorials) da documentação do TensorFlow
 
 ## Summary
 
