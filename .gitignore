@@ -95,3 +95,4 @@ target/
 .npm/
 .keras/
 tensorflow_datasets/
+*.keras
